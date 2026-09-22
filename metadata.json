@@ -1,0 +1,6 @@
+{
+  "name": "EmuZen",
+  "description": "Retro gaming, simplified. Minimalist retro game launcher and emulator frontend with glassmorphism UI and custom virtual controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
